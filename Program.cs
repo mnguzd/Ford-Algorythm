@@ -15,7 +15,6 @@ namespace Diskretka_Lab3
                 new Edge(0,4,6),new Edge(1,4,4),new Edge(3,4,3),
                 new Edge(5,6,5)
             };
-            Bellman_Kalaba.MinWay(Graph, 1, 6);
         }
     }
 }
